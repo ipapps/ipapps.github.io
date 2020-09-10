@@ -1,21 +1,21 @@
 {
-    "name": "test_web",
-    "short_name": "test_web",
+    "name": "ON-E-NERGY",
+    "short_name": "ON-E-NERGY",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter application.",
+    "description": "Le back-office de ON-E-NERGY",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
         {
-            "src": "icons/Icon-192.png",
+            "src": "icons/logo_square_192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "icons/Icon-512.png",
+            "src": "icons/logo_square_512.png",
             "sizes": "512x512",
             "type": "image/png"
         }
